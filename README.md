@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging. TEST COMMIT
+Smarter Reconciliation and Anamoly Detection
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -30,7 +30,18 @@ What inspired you to create this project? Describe the problem you're solving.
 Explain the key features and functionalities of your project.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Realsistic historical data generated using Python
+ARIMA + LSTM  used to build the model to identify the pattern in historical data.
+
+Generated the model is available in the path - https://github.com/ewfx/sradg-power-divas/blob/main/code/src/arima_lstm_anomaly_detection_model.h5 and the python code is present notebook - https://github.com/ewfx/sradg-power-divas/blob/main/code/src/arima.ipynb
+
+Historical data used to train the model - https://github.com/ewfx/sradg-power-divas/blob/main/code/src/historical_realistic_ledger_data.csv
+
+Realistic test data created - https://github.com/ewfx/sradg-power-divas/blob/main/code/src/power-divas.ipynb
+
+The python notebook - https://github.com/ewfx/sradg-power-divas/blob/main/code/src/power-divas.ipynb has the code to load the model and predict the anamolies
+
+
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.

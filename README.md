@@ -66,6 +66,6 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Database: PostgreSQL / Firebase
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
-## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+## 👥 Team - POWER DIVAS
+- **Bhawana Chauahan**
+- **Mausumi Kumari** 

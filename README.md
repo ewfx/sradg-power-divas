@@ -61,10 +61,9 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: React 
+- 🔹 Backend: Node.js
+- 🔹 Other: Python
 
 ## 👥 Team - POWER DIVAS
 - **Bhawana Chauahan**
